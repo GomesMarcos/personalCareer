@@ -22,22 +22,59 @@ position = Vector2( 0, -10 )
 scale = Vector2( 0.3, 0.3 )
 texture = ExtResource( 3 )
 
-[node name="Path2D" type="Path2D" parent="green"]
+[node name="greenPath" type="Path2D" parent="green"]
 curve = SubResource( 1 )
 __meta__ = {
 "_edit_group_": true
 }
 
+[node name="follow" type="PathFollow2D" parent="green/greenPath"]
+position = Vector2( 0, -50 )
+rotation = -1.5708
+
 [node name="blue" parent="." instance=ExtResource( 2 )]
 position = Vector2( 10, -5 )
 scale = Vector2( 0.3, 0.3 )
+
+[node name="bluePath" type="Path2D" parent="blue"]
+rotation = 1.5708
+curve = SubResource( 1 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="follow" type="PathFollow2D" parent="blue/bluePath"]
+position = Vector2( -66.6667, 33.3333 )
+rotation = 3.14159
 
 [node name="red" parent="." instance=ExtResource( 2 )]
 position = Vector2( 0, 5 )
 scale = Vector2( 0.3, 0.3 )
 texture = ExtResource( 4 )
 
+[node name="redPath" type="Path2D" parent="red"]
+rotation = 3.14159
+curve = SubResource( 1 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="follow" type="PathFollow2D" parent="red/redPath"]
+position = Vector2( 8.74228e-06, 100 )
+rotation = 1.5708
+
 [node name="yellow" parent="." instance=ExtResource( 2 )]
 position = Vector2( -10, -5 )
 scale = Vector2( 0.3, 0.3 )
 texture = ExtResource( 5 )
+
+[node name="yellowPath" type="Path2D" parent="yellow"]
+rotation = 4.71239
+curve = SubResource( 1 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="follow" type="PathFollow2D" parent="yellow/yellowPath"]
+position = Vector2( 66.6667, 33.3333 )
+rotation = -5.56363e-08
