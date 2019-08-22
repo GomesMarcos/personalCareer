@@ -14,7 +14,7 @@ margin_right = 1024.0
 margin_bottom = 600.0
 
 [node name="board" parent="." instance=ExtResource( 1 )]
-position = Vector2( 250, 300 )
+position = Vector2( 250, 298 )
 scale = Vector2( 0.8, 0.8 )
 
 [node name="answer" parent="." instance=ExtResource( 2 )]
