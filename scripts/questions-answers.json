@@ -1,0 +1,182 @@
+{
+  "1": {
+    "quest": "Na escola, você prefere assuntos ligados a:",
+    "answers": [
+      "g) Arte, esportes e atividades extracurriculares",
+      "b) Biologia e genética",
+      "r) Ciências humanas, idiomas",
+      "y) Ciências exatas"
+    ]
+  },
+  "2": {
+    "quest": "Na escola, você prefere assuntos ligados a:",
+    "answers": [
+      "g) Com pouca rotina e poucas regras",
+      "b) Com regras definidas e disciplina",
+      "r) Interagindo com todo tipo de pessoa",
+      "y) Com muita autonomia: \"na sua\""
+    ]
+  },
+  "3": {
+    "quest": "Você se descreveria como uma pessoa:",
+    "answers": [
+      "g) Impulsiva e um tanto aventureira",
+      "b) Cautelosa e responsável",
+      "r) Entusiasmada e muito amiga",
+      "y) Calma e diferente da maioria"
+    ]
+  },
+  "4": {
+    "quest": "Você se considera uma pessoa:",
+    "answers": [
+      "g) Prática e hábil para improvisar",
+      "b) Batalhadora, que sabe o que quer",
+      "r) Preocupada com questões humanas",
+      "y) Capacitada para criar e inventar"
+    ]
+  },
+  "5": {
+    "quest": "De quais características suas você sente orgulho:",
+    "answers": [
+      "g) Audácia e facilidade para lidar com o inesperado",
+      "b) Senso de dever e capacidade de dar exemplo",
+      "r) Idealismo e disposição para compreender os outros",
+      "y) Engenhosidade e rapidez mental"
+    ]
+  },
+  "6": {
+    "quest": "Costuma confiar mais em:",
+    "answers": [
+      "g) Percepção imediata",
+      "b) Costumes e tradições",
+      "r) Intuição",
+      "y) Razão e lógica"
+    ]
+  },
+  "7": {
+    "quest": "Quase sempre, você gosta de:",
+    "answers": [
+      "g) Causar impacto: os holofotes o(a) atraem",
+      "b) Ser visto(a) como membro valioso de um grupo",
+      "r) Sonhar em transformar o mundo",
+      "y) Desvendar um enigma ou inventar algo útil"
+    ]
+  },
+  "8": {
+    "quest": "A vida é mais interessante quando você tem:",
+    "answers": [
+      "g) Desafios, situações de mudança",
+      "b) Segurança, emprego garantido, integração social",
+      "r) Possibilidade de fazer algo para mudar o mundo",
+      "y) Possibilidade de ir além do que já é conhecido"
+    ]
+  },
+  "9": {
+    "quest": "Você gostaria de ser:",
+    "answers": [
+      "g) Um(a) craque na profissão que escolher",
+      "b) Um(a) executivo bem-sucedido(a)",
+      "r) Um(a) profissional de prestígio",
+      "y) Um(a) especialista ou cientista"
+    ]
+  },
+  "10": {
+    "quest": "Você é muito bom/boa lidando com:",
+    "answers": [
+      "g) Ferramentas, instrumentos e equipamentos",
+      "b) Controle do tempo, comando e execução",
+      "r) Pessoas de todos os níveis sociais e culturais",
+      "y) Sistemas e construção (material ou mental)"
+    ]
+  },
+  "11": {
+    "quest": "Antes de agir, você analisa:",
+    "answers": [
+      "g) As vantagens imediatas",
+      "b) As experiências já vividas",
+      "r) As possibilidades futuras",
+      "y) As condições e consequências"
+    ]
+  },
+  "12": {
+    "quest": "Gosta quando as pessoas:",
+    "answers": [
+      "g) O(a) surpreendem com um presente",
+      "b) Expressam gratidão por algo que fez",
+      "r) Reconhecem sua personalidade singular",
+      "y) Reconhecem sua inteligência"
+    ]
+  },
+  "13": {
+    "quest": "Você costuma abraçar um novo projeto:",
+    "answers": [
+      "g) Com a cara e a coragem",
+      "b) Guiado pela experiência",
+      "r) Confiando na intuição e na criatividade",
+      "y) Depois de verificar todas as variáveis"
+    ]
+  },
+  "14": {
+    "quest": "Geralmente, você prefere agir:",
+    "answers": [
+      "g) No calor do momento",
+      "b) Com segurança e conforme o costume",
+      "r) Quando está inspirado(a)",
+      "y) Quando um problema o desafia"
+    ]
+  },
+  "15": {
+    "quest": "Você fica motivado(a) quando:",
+    "answers": [
+      "g) Tem a oportunidade de superar obstáculos",
+      "b) Experimenta estabilidade na vida profissional, ou seja, sabe em que terreno está pisando",
+      "r) Harmonia e inspiração guiam a atividade",
+      "y) Há liberdade para projetar o futuro"
+    ]
+  },
+  "16": {
+    "quest": "Em atividades em grupo, você prefere:",
+    "answers": [
+      "g) As desafiadoras, que exigem ação rápida",
+      "b) Administrar os recursos disponíveis",
+      "r) Motivar as pessoas para darem o melhor de si",
+      "y) Descartar logo o que não funciona"
+    ]
+  },
+  "17": {
+    "quest": "Liderar é uma atividade que gosta de exercer:",
+    "answers": [
+      "g) Por pouco tempo e dependendo da situação",
+      "b) Quando pode comandar do começo ao fim",
+      "r) Quando é preciso identificar e reunir talentos",
+      "y) Quando o raciocínio estratégico é necessário"
+    ]
+  },
+  "18": {
+    "quest": "Em uma escola, você gostaria de ser:",
+    "answers": [
+      "g) Professor(a) de Educação Física",
+      "b) Diretor(a)",
+      "r) Professor(a) de Literatura",
+      "y) Professor(a) de Matemática ou Física"
+    ]
+  },
+  "19": {
+    "quest": "É um elogio quando se referem a você como:",
+    "answers": [
+      "g) Corajoso(a), otimista e divertido(a)",
+      "b) Cauteloso(a), responsável e aplicado(a)",
+      "r) Harmonizador(a), íntegro(a) e sábio(a)",
+      "y) Uma mente brilhante"
+    ]
+  },
+  "20": {
+    "quest": "Frase que tem a ver com você:",
+    "answers": [
+      "g) \"Deixo a vida me levar...\"",
+      "b) \"Manda quem pode; obedece quem tem juízo\"",
+      "r) \"Para seu próprio interesse, seja verdadeiro\"",
+      "y) \"Penso, logo existo\""
+    ]
+  }
+}
