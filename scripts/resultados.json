@@ -2,5 +2,10 @@
    "greenGroup": {
     "text" : "A principal característica dos tipos A é o movimento. Gostam de novidade. Apresentam destreza física e boa expressão corporal. Se forem mais propensos ao raciocínio lógico, terão mais êxito em profissões que requeiram precisão e acuidade. Se forem mais inclinados ao sentimento e à emoção, as profissões relacionadas ao trato com pessoas são as mais indicadas. Pessoas do tipo A não gostam de rotina e veem o trabalho como uma grande fonte de prazer.",
     "careers": ["esportista", "estilista", "personal trainer", "dançarino(a)", "cirurgião", "fotógrafo(a)", "personal stylist", "médico(a) clínico(a)", "ator/atriz", "jornalista", "piloto", "dermatologista", "publicitário(a)", "chef de cozinha"]
-   } 
+   },
+   "blueGroup": {
+    "text" : "Comando e ",
+    "careers": ["esportista", "estilista", "personal trainer", "dançarino(a)", "cirurgião", "fotógrafo(a)", "personal stylist", "médico(a) clínico(a)", "ator/atriz", "jornalista", "piloto", "dermatologista", "publicitário(a)", "chef de cozinha"]
+   },
+
  }
