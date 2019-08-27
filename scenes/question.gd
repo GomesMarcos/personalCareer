@@ -1,5 +1,7 @@
 extends RichTextLabel
 
+const QUESTION_PATH = 'res://scripts/questions-answers.json'
+
 const questions = [
 'Na escola, você prefere assuntos ligados a:',
 'Você procura levar sua vida:',
@@ -27,10 +29,7 @@ const questions = [
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	generateQuestion()
+	print(generateQuestion())
 
 func generateQuestion():
 	return questions[1]
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-#func _process(delta):
-#	pass
